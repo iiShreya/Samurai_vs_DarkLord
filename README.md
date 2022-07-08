@@ -1,5 +1,8 @@
 # Samurai_vs_DarkLord
-
+```diff
+! The link to the game :)
+```
+[click me](https://samurai-vs-darklord.netlify.app/)
 
 # RESULTS:
 
